@@ -4,8 +4,6 @@ Personal ESLint config preset, it is originate from [antfu](https://github.com/a
 
 > For more details go [here](https://github.com/antfu/eslint-config/blob/main/README.md)
 
-[![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=444&label=)](https://npmjs.com/package/@antfu/eslint-config)
-
 ## Usage
 
 ```bash
@@ -35,11 +33,6 @@ For example:
 ```
 
 ## IDE Support (auto fix on save)
-
-<details>
-<summary>🟦 VS Code support</summary>
-
-<br>
 
 Install [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
@@ -97,8 +90,6 @@ Add the following settings to your `.vscode/settings.json`:
   ]
 }
 ```
-
-</details>
 
 ## License
 
