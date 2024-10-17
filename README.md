@@ -1,6 +1,6 @@
 # @wangyjhh/eslint-config
 
-Personal ESLint config preset, it is originate from [antfu](https://github.com/antfu/eslint-config)
+This is a personal ESLint configuration preset inspired by [antfu](https://github.com/antfu/eslint-config).
 
 > For more details go [here](https://github.com/antfu/eslint-config/blob/main/README.md)
 
